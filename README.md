@@ -5,7 +5,8 @@ Link to Kaggle competition: https://www.kaggle.com/competitions/case3-datasaur-p
 
 Ranking:
 Public 29/45
-Private 22/45
+Private 22/45 (0.9604287358)
+
 
 
 Model classifies images of cars into real or fake
