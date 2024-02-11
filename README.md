@@ -9,7 +9,7 @@ Private 22/45 (0.9604287358)
 
 
 
-Model classifies images of cars into real or fake
+Model classifies images of cars into real or fake to help Kazakhstan's electronic portal EGOV idetify photoshops and incorrect photos.
 
 
 Link to the dataset (orginal + augmented images to balance the dataset): https://www.kaggle.com/datasets/erkhatkalkabay/datasaur-techosmotr
