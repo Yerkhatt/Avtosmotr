@@ -18,20 +18,20 @@ Examples from dataset:
 
 correct photo:
 
-![](/examples/70006002.jpeg)
+<img src="/examples/70006002.jpeg" width="50%"> 
 
 Incorrect photo(not on the brake stand):
 
-![](/examples/70270648.jpeg)
+<img src="/examples/70270648.jpeg" width="50%">
 
 Incorrect photo(from the screen):
 
-![](/examples/70077053.jpeg)
+<img src="/examples/70077053.jpeg" width="50%">
 
 Incorrect photo(from the screen + photoshop):
 
-![](/examples/70185732.jpeg)
+<img src="/examples/70185732.jpeg" width="50%">
 
 Incorrect photo(photoshop):
 
-![](/examples/70277053.jpeg)
+<img src="/examples/70277053.jpeg" width="50%">
